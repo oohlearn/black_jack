@@ -104,7 +104,7 @@ h1::after {
   border-radius: 50%;
 }
 /* 勝利效果 end */
-
+/* test */
 /* 平手 */
 .peace h1::after {
   opacity: .85;
